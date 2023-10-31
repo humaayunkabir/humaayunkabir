@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Humayun Kabir</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://pbs.twimg.com/profile_banners/1209029144559796224/1644499095/600x200" width="100%" height="auto" alt="">
+<img src="https://pbs.twimg.com/profile_banners/1209029144559796224/1644499095/600x200](https://github.com/humayunkabir154/humayunkabir154/raw/main/github_cover_my_photos.jpg" width="100%" height="auto" alt="">
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=humaayunkabir&label=Profile%20views&color=0e75b6&style=flat"
